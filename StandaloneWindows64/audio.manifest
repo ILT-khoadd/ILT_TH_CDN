@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2100030153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d027b48adcadaca27fb8131b76b746f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/AppData/SongData/Audio/au_rftmis.wav
+- Assets/Resources/AppData/SongData/Audio/track_7.wav
+- Assets/Resources/AppData/SongData/Audio/au_rften.wav
+- Assets/Resources/AppData/SongData/Audio/au_vyg1969.wav
+- Assets/Resources/AppData/SongData/Audio/au_uowh.wav
+- Assets/Resources/AppData/SongData/Audio/au_lcms.wav
+Dependencies: []
